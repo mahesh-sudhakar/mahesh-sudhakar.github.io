@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mahesh Sudhakar</title>
+    <link>https://mahesh-sudhakar.github.io/</link>
+    <description>Personal webpage of Mahesh Sudhakar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jun 2024 16:22:35 -0700</lastBuildDate>
+    
+	<atom:link href="https://mahesh-sudhakar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>aboutme</title>
+      <link>https://mahesh-sudhakar.github.io/aboutme/</link>
+      <pubDate>Sun, 14 Jul 2019 16:22:35 -0700</pubDate>
+      
+      <guid>https://mahesh-sudhakar.github.io/aboutme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
