@@ -83,7 +83,7 @@ body {
 }
 
 .navbar-default .navbar-nav>li>a {
-  color: #5d06af;
+  color: #333333;
 }
 
 .navbar-default .navbar-nav>li>a:hover,
@@ -145,16 +145,16 @@ body {
 .nav-side>li>a {
   padding-top: 5px;
   padding-bottom: 5px;
-  color: #5d06af;
+  color: #f392b4;
 }
 
 .nav-side>li>a:hover {
-  color: #5d06af;
+  color: #bd1550;
   background: none;
 }
 
 .nav-side>li.active>a {
-  color: #5d06af;
+  color: #bd1550;
 }
 
 /*********************************************************************
@@ -224,7 +224,7 @@ h5 {
 }
 
 a {
-  color: #5d06af !important;
+  color: #bd1550;
 }
 
 a:hover {
@@ -285,7 +285,7 @@ a:hover {
 
 #head .title a {
   text-decoration: none;
-  color: #5d06af;
+  color: #333333;
 }
 
 #head .tagline {
@@ -293,7 +293,7 @@ a:hover {
   font-size: 14px;
   font-size: 0.875rem;
   line-height: 1.2em;
-  color: #5d06af;
+  color: #333333;
   margin: 5px 0 0;
 }
 
@@ -302,7 +302,7 @@ a:hover {
 }
 
 #head .tagline a {
-  color: #5d06af;
+  color: #333333;
 }
 
 .home #head {
@@ -825,7 +825,7 @@ footer.entry-meta .meta-in {
 }
 
 #comments .comment-meta a:hover {
-  color: #5d06af;
+  color: #bd1550;
 }
 
 #comments .comment-meta .author {
