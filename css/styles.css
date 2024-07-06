@@ -83,7 +83,7 @@ body {
 }
 
 .navbar-default .navbar-nav>li>a {
-  color: #333333;
+  color: #5d06af;
 }
 
 .navbar-default .navbar-nav>li>a:hover,
@@ -131,7 +131,7 @@ body {
 /****************************************************************************************
 
 
-                                     Sidebar special Nav
+                                    Sidebar special Nav
 
 
 *****************************************************************************************/
@@ -145,16 +145,16 @@ body {
 .nav-side>li>a {
   padding-top: 5px;
   padding-bottom: 5px;
-  color: #f392b4;
+  color: #5d06af;
 }
 
 .nav-side>li>a:hover {
-  color: #bd1550;
+  color: #5d06af;
   background: none;
 }
 
 .nav-side>li.active>a {
-  color: #bd1550;
+  color: #5d06af;
 }
 
 /*********************************************************************
@@ -224,11 +224,11 @@ h5 {
 }
 
 a {
-  color: #bd1550;
+  color: #5d06af !important;
 }
 
 a:hover {
-  color: #e93675;
+  color: #5d06af !important;
 }
 
 .lead {
@@ -285,7 +285,7 @@ a:hover {
 
 #head .title a {
   text-decoration: none;
-  color: #333333;
+  color: #5d06af;
 }
 
 #head .tagline {
@@ -293,7 +293,7 @@ a:hover {
   font-size: 14px;
   font-size: 0.875rem;
   line-height: 1.2em;
-  color: #333333;
+  color: #5d06af;
   margin: 5px 0 0;
 }
 
@@ -302,7 +302,7 @@ a:hover {
 }
 
 #head .tagline a {
-  color: #333333;
+  color: #5d06af;
 }
 
 .home #head {
@@ -582,7 +582,7 @@ img {
 /*********************************************************************
 
 
-                                 BLOG
+                                BLOG
 
 
 **********************************************************************/
@@ -825,7 +825,7 @@ footer.entry-meta .meta-in {
 }
 
 #comments .comment-meta a:hover {
-  color: #bd1550;
+  color: #5d06af;
 }
 
 #comments .comment-meta .author {
